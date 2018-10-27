@@ -6,4 +6,3 @@ function sumOfOther(arr) {
   }
   return res;
 }
-
